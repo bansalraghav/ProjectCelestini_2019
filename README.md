@@ -1,7 +1,9 @@
 # ProjectCelestini_2019
 
 This is the submission for my internship under Project Celestini 2019 on the theme Air Pollution.  
-The idea was to develop a solution that relates traffic index to the air pollution.  
+
+Our focus is to find relation between NOx concentrations and vehicular traffic in Delhi and design an android application that predicts NOx concentrations along roads in real time using API calls to acquire average traffic time of chosen road coordinate.  
+
 
 We have used TOM TOM API to gather traffic congestion time and traffic speeds for a particular stretch of road.  
 More on TOM TOM API [here](https://developer.tomtom.com/traffic-api/traffic-api-documentation-traffic-flow/flow-segment-data)  
